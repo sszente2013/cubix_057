@@ -4,4 +4,4 @@ print("proba commit")
 print("proba commit VSCode-al")
 print("proba commit VSCode-al megint")
 print("proba commit Githubrol")
-
+print("konfliktus githubrol")
