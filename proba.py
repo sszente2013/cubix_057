@@ -5,3 +5,5 @@ print("proba commit VSCode-al")
 print("proba commit VSCode-al megint")
 print("proba commit Githubrol")
 print("konfliktus githubrol")
+print("konfliktus VSCode alol")
+
